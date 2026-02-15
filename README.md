@@ -1,1 +1,1 @@
-# internship-assignments
+# figma-site
